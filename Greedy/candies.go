@@ -32,3 +32,6 @@ func Amount(arr []int, N int, k int) (int, int) {
 	return min, max
 
 }
+
+//time = O(NLogN)
+//space O(1)
